@@ -1,5 +1,5 @@
 # House-Price-Prediction
-this is the ml model for predicting house price based on user input .
+This is the ml model for predicting house price based on user input .
 <br>
 squarefeet and bedroms are essential
 steps :
